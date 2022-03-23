@@ -10,4 +10,5 @@ ou
 entrada de iteraçoes (N)
 ex: -100 a 200
 
-
+<b> Resolver função verificando o sinal, quando haver uma alteração de positivo para negativo, ou vice-versa nesta hora será um intervalo </b> 
+  <b> Ex: + + <strong>+ - </strong> - - </b>
