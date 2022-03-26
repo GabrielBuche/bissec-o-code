@@ -15,3 +15,10 @@ ex: -100 a 200
   <b> Ex: + + + - - - </b>
   
 Derivar 
+
+
+<b>inicio 
+aproximação inicial
+criteiro de parada
+exibir resultados
+fim</b>
