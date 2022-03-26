@@ -17,8 +17,8 @@ ex: -100 a 200
 Derivar 
 
 
-<b>inicio 
-aproximação inicial
-criteiro de parada
-exibir resultados
-fim</b>
+<b>inicio</b>
+<b>aproximação inicial</b>
+<b>criteiro de parada</b>
+<b>exibir resultados</b>
+<B>fim</b>
