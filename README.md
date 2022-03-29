@@ -2,19 +2,15 @@
 entrada de uma funçao
 ex: f(x) = e^2x+1 - 3 +x
 
-entrada de um Epsilon (&)
+entrada de um Epsilon (Fazer entrada do expoente EX: *10^5 colocar somente o 5)
 (criterio de parada)
 
-ou
-
-entrada de iteraçoes (N)
+Valor inicial do X e valor final do X
 ex: -100 a 200
 
-<b> Resolver função verificando o sinal, quando haver uma alteração de positivo para negativo, ou vice-versa nesta hora será um intervalo </b> 
+<b> Aplicar o valor inicial até o valor final na função, verificar alterações de sinais nos resultados e guardar os resultados que houveram alterações de sinais</b> 
 <br>
-  <b> Ex: + + + - - - </b>
-  
-Derivar 
+<b> Ex: +12 +5 +1 -3 -5 -12  Guardar o +1 e -3</b>
 
 <b>ordem do que o codigo deve fazer</b>
 
