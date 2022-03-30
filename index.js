@@ -1,5 +1,4 @@
 var E = 2.718281828459045235360287;
-var PI = 3.14159265359;
 var casas = 6;
 
 function POW(x, y){
