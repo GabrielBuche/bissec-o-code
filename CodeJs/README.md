@@ -15,5 +15,8 @@ fim</b>
    apos inserir os valores para A, B, C, sera necessario inserir um criterio de parada conhecido como Epislon, para verificar se o resultado da função é bom o suficiente.
 </b>
 <b> 
+    Após inserir os valores da Função, devera ser inserido os valores do intervalo para ser feito o calculo, Xa e Xb.
+</b>
+<b> 
     existem dois botões, o de calcular chama a funçao de calcular e calcula os valores que forem inseridos, caso não seja inserido nada ele irá calcular uma funça quadrada, (3x²-9x+3)
 </b>
